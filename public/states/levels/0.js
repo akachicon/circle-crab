@@ -1,8 +1,8 @@
 define({
     // to hook up your level you have to write a line at the beginning of next files (in manner of previous levels):
-    // states/actionClasses/ActionStateManager.js
-    // states/action.js
-    // states/levels.js
+        // states/actionClasses/ActionStateManager.js
+        // states/action.js
+        // states/levels.js
     /*--------test--------*/
     0: {                        // zero key is necessary
         wrapCRS: 0,             // wrap circle rotation speed

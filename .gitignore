@@ -1,8 +1,8 @@
 # Node build artifacts
-/node_modules
+node_modules
 
 # Logs
 npm-debug.log
 
 # Local development
-/.idea
+.idea

@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "body",
+	"frame": {"x":0,"y":859,"w":181,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":111},
+	"sourceSize": {"w":181,"h":111}
+},
+{
+	"filename": "eye",
+	"frame": {"x":0,"y":232,"w":103,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":103},
+	"sourceSize": {"w":103,"h":103}
+},
+{
+	"filename": "head",
+	"frame": {"x":0,"y":970,"w":188,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":186},
+	"sourceSize": {"w":188,"h":186}
+},
+{
+	"filename": "left_leg",
+	"frame": {"x":108,"y":0,"w":54,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":232},
+	"sourceSize": {"w":54,"h":232}
+},
+{
+	"filename": "left_leg_back",
+	"frame": {"x":0,"y":0,"w":54,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":232},
+	"sourceSize": {"w":54,"h":232}
+},
+{
+	"filename": "left_leg_mount",
+	"frame": {"x":0,"y":466,"w":176,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":131},
+	"sourceSize": {"w":176,"h":131}
+},
+{
+	"filename": "left_leg_mount_back",
+	"frame": {"x":0,"y":728,"w":176,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":131},
+	"sourceSize": {"w":176,"h":131}
+},
+{
+	"filename": "right_leg",
+	"frame": {"x":162,"y":0,"w":54,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":232},
+	"sourceSize": {"w":54,"h":232}
+},
+{
+	"filename": "right_leg_back",
+	"frame": {"x":54,"y":0,"w":54,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":232},
+	"sourceSize": {"w":54,"h":232}
+},
+{
+	"filename": "right_leg_mount",
+	"frame": {"x":0,"y":335,"w":176,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":131},
+	"sourceSize": {"w":176,"h":131}
+},
+{
+	"filename": "right_leg_mount_back",
+	"frame": {"x":0,"y":597,"w":176,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":131},
+	"sourceSize": {"w":176,"h":131}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "crabTA.png",
+	"format": "RGBA8888",
+	"size": {"w":216,"h":1156},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:10754cffc2f00a4a12b1d9de2c99dc9a:9ff92bb211031fbc4ba5771dd81eefec:5c3864cfde7116a296ed54ff22bd9fa2$"
+}
+}

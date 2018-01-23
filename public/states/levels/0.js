@@ -1,21 +1,25 @@
 define({
+    // to hook up your level you have to write a line at the beginning of next files (in manner of previous levels):
+    // states/actionClasses/ActionStateManager.js
+    // states/action.js
+    // states/levels.js
     /*--------test--------*/
-    0: {                        //zero key is necessary
-        wrapCRS: 0,             //wrap circle rotation speed
-        mainRS: 0.01,           //main group rotation speed
-        crabFRS: 0.02,          //crab forward rotation speed (counter-clockwise)
-        crabBRS: 0.02,          //crab backward rotation speed
-        crabCAS: 100,           //crab calm animation speed
-        arcsRS: 0,              //arcs group rotation speed
-        //acrLS: 10000,         //arc changing color time
-        arcKT: 150,             //arc kill time (disappearing time)
-        avtRT: 1000,            //time after last arc appearance after which avatar start moving
-        arcColor: 0xf4005d,     //arc color
-        segProbs: '3444',       //defines probability for every arc size (in segments) appearance
-        equalDist: false,       //equalDist defines if it is possible to create arc that has equal left- and right-side distances from avatar (if true)
-        bPentRS: 0.01,          //background pentagon rotation speed
-        bSquareRS: 0.02,        //background square rotation speed
-        bTriangleRS: -0.005     //background triangle rotation speed
+    0: {                        // zero key is necessary
+        wrapCRS: 0,             // wrap circle rotation speed
+        mainRS: 0.01,           // main group rotation speed
+        crabFRS: 0.02,          // crab forward rotation speed (counter-clockwise)
+        crabBRS: 0.02,          // crab backward rotation speed
+        crabCAS: 100,           // crab calm animation speed
+        arcsRS: 0,              // arcs group rotation speed
+        //acrLS: 10000,         // arc changing color time
+        arcKT: 150,             // arc kill time (disappearing time)
+        avtRT: 1000,            // time after last arc appearance after which avatar start moving
+        arcColor: 0xf4005d,     // arc color
+        segProbs: '3444',       // defines probability for every arc size (in segments) appearance
+        equalDist: false,       // equalDist defines if it is possible to create arc that has equal left- and right-side distances from avatar (if true)
+        bPentRS: 0.01,          // background pentagon rotation speed
+        bSquareRS: 0.02,        // background square rotation speed
+        bTriangleRS: -0.005     // background triangle rotation speed
     },
     10: {
         wrapCRS: -0.01,

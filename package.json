@@ -1,15 +1,23 @@
 {
-  "name": "crab-game",
-  "version": "1.0.0",
-  "description": "",
+  "name": "circle-crab",
+  "version": "1.0.1",
+  "description": "Simple browser (desktop only game)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["web", "html5", "game", "desktop", "fast-paced", "client-side", "client", "circle", "crab", "node", "heroku"],
+  "author": {
+    "name": "Dan Z.",
+    "email": "akachicon@gmail.com",
+    "url": "https://github.com/akachicon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akachicon/circle-crab"
+  },
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.2"
   }

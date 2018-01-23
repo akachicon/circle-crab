@@ -29,7 +29,7 @@ define(() => {
                 game.comingsoon = {};
             }
             else {
-                console.log("MOBILE");
+                console.log("MOBILE (is not available)");
                 this.scale.pageAlignHorizontally = true;
                 this.scale.pageAlignVertically = true;
             }

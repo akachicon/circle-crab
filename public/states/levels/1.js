@@ -16,7 +16,7 @@ define({
         bSquareRS: 0.015,
         bTriangleRS: -0.005
     },
-    25: {
+    24: {
         wrapCRS: -0.007,
         mainRS: 0.012,
         crabFRS: 0.03,
@@ -32,7 +32,7 @@ define({
         bSquareRS: 0.02,
         bTriangleRS: -0.01
     },
-    50: {
+    49: {
         wrapCRS: -0.014,
         mainRS: 0.024,
         crabFRS: 0.03,
@@ -48,7 +48,7 @@ define({
         bSquareRS: 0.027,
         bTriangleRS: -0.015
     },
-    75: {
+    74: {
         wrapCRS: -0.021,
         mainRS: 0.03,
         crabFRS: 0.035,
@@ -64,7 +64,7 @@ define({
         bSquareRS: 0.03,
         bTriangleRS: -0.02
     },
-    76: {
+    75: {
         wrapCRS: -0.021,
         mainRS: 0,
         crabFRS: 0.035,
@@ -80,7 +80,7 @@ define({
         bSquareRS: 0,
         bTriangleRS: -0.007
     },
-    100: {
+    99: {
         wrapCRS: -0.025,
         mainRS: 0,
         crabFRS: 0.035,
@@ -96,7 +96,7 @@ define({
         bSquareRS: -0.03,
         bTriangleRS: 0.02
     },
-    125: {
+    124: {
         wrapCRS: -0.032,
         mainRS: -0.012,
         crabFRS: 0.035,
@@ -112,7 +112,7 @@ define({
         bSquareRS: -0.035,
         bTriangleRS: 0.025
     },
-    150: {
+    149: {
         wrapCRS: -0.039,
         mainRS: -0.017,
         crabFRS: 0.038,
